@@ -6,6 +6,8 @@
 </br>
 ☕ I love programming in Java, but I'm trying to learn Python, JavaScript (especially Discord.js to create Discord bots) and C++.
 </br>
+🌎 Currently I'm creating my own website!
+</br>
 💬 Want to ask me a question? Contact me on Discord - AW_meister#9121
 </br>
 </br>
