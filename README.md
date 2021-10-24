@@ -2,7 +2,7 @@
 
 🧑‍💻 My name is Antek.
 </br>
-🇵🇱 I live in Poland. My pasion is programming and my partner is @NetKuDev 👯💙
+🇵🇱 I live in Poland. My pasion is programming and my partner is [@NetKuDev](https://github.com/netkudev) 👯💙
 </br>
 ☕ I love programming in Java, but I'm trying to learn Phyton, JavaScript (especially Discord.js to create Discord bots) and C++.
 </br>
