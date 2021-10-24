@@ -1,10 +1,13 @@
 ### Hi! 👋
 
 🧑‍💻 My name is Antek.
+</br>
 🇵🇱 I live in Poland. My programming partner is @NetKuDev 👯💙
+</br>
 ☕ I love programming in Java, but I'm trying to learn Phyton, JavaScript (especially Discord.js to create Discord bots) and C++.
+</br>
 💬 Want to ask me a question? Contact me on Discord - AW_meister#9121
-
+</br>
 👍 Have a nice day!
 
 <!--
