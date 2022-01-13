@@ -1,14 +1,12 @@
-### Hi! 👋
+### Hello 👋
 
-🧑‍💻 My name is Antek.
+🧑‍💻 My name is Antek and I live in Poland 🇵🇱. My pasion is programming. My code partner is [@NetKuDev (https://github.com/netkudev) 👯💙
 </br>
-🇵🇱 I live in Poland. My pasion is programming and my partner is [@NetKuDev](https://github.com/netkudev) 👯💙
+☕ I love programming in Java, but I'm trying to learn Python, JavaScript (mainly Discord.js) and C++.
+/* </br>
+🌎 I'm creating my website, check it out [soon] (<link do repo strony>) */
 </br>
-☕ I love programming in Java, but I'm trying to learn Python, JavaScript (especially Discord.js to create Discord bots) and C++.
-</br>
-🌎 Currently I'm creating my own website!
-</br>
-💬 Want to ask me a question? Contact me on Discord - AW_meister#9121
+💬 Want to ask me a question? DM's are open on Discord! AW_meister#9121
 </br>
 </br>
 👍 Have a nice day!
