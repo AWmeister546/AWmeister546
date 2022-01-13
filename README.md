@@ -11,6 +11,8 @@
 </br>
 👍 Have a nice day!
 
+<img src="https://discord.c99.nl/widget/theme-5/565588167097450499.png">
+
 <!--
 **AWmeister546/AWmeister546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
