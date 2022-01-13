@@ -1,6 +1,6 @@
 ### Hello 👋
 
-🧑‍💻 My name is Antek and I live in Poland 🇵🇱. My pasion is programming. My code partner is [@NetKuDev (https://github.com/netkudev) 👯💙
+🧑‍💻 My name is Antek and I live in Poland 🇵🇱. My pasion is programming. My code partner is [@NetKuDev](https://github.com/netkudev) 👯💙
 </br>
 ☕ I love programming in Java, but I'm trying to learn Python, JavaScript (mainly Discord.js) and C++.
 /* </br>
@@ -11,7 +11,7 @@
 </br>
 👍 Have a nice day!
 
-<img src="https://discord.c99.nl/widget/theme-5/565588167097450499.png">
+<img src="https://discord.c99.nl/widget/theme-1/565588167097450499.png">
 
 <!--
 **AWmeister546/AWmeister546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
