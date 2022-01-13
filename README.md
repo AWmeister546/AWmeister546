@@ -3,8 +3,8 @@
 🧑‍💻 My name is Antek and I live in Poland 🇵🇱. My pasion is programming. My code partner is [@NetKuDev](https://github.com/netkudev) 👯💙
 </br>
 ☕ I love programming in Java, but I'm trying to learn Python, JavaScript (mainly Discord.js) and C++.
-/* </br>
-🌎 I'm creating my website, check it out [soon] (<link do repo strony>) */
+</br>
+🌎 I'm creating my website, check it out [soon](<soon>)
 </br>
 💬 Want to ask me a question? DM's are open on Discord! AW_meister#9121
 </br>
