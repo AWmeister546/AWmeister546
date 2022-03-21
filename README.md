@@ -4,7 +4,7 @@
 </br>
 ☕ I love programming in Java, but I'm trying to learn Python, JavaScript (mainly Discord.js) and C++.
 </br>
-🌎 I'm creating my website, check it out [soon](https://github.com/AWmeister546/MyWebsite)
+🌎 I'm creating my website, check it out at https://awmeister546.github.io/MyWebsite/
 </br>
 💬 Want to ask me a question? DM's are open on Discord! AW_meister#9121
 </br>
