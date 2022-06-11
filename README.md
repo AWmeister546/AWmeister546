@@ -6,12 +6,12 @@
 </br>
 🌎 I'm creating my website, check it out at https://awmeister546.github.io/MyWebsite/
 </br>
-💬 Want to ask me a question? DM's are open on Discord! AW_meister#9121
+💬 Want to ask me a question? DM's are open on Discord! AW_meister 2#4593
 </br>
 </br>
 👍 Have a nice day!
 
-<img src="https://discord.c99.nl/widget/theme-1/565588167097450499.png">
+<img src="https://discord.c99.nl/widget/theme-1/725333421236158485.png">
 
 <!--
 **AWmeister546/AWmeister546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
