@@ -11,6 +11,8 @@
 </br>
 👍 Have a nice day!
 
+![AW_meister's GitHub stats](https://github-readme-stats.vercel.app/api?username=AWmeister546&show_icons=true&theme=tokyonight)
+<br>
 <img src="https://discord.c99.nl/widget/theme-1/725333421236158485.png">
 
 <!--
