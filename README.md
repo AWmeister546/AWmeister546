@@ -5,7 +5,7 @@
 <br/>
 🌎 My website: https://awmeister.me
 <br/>
-💬 Want to ask me a question? Contact me via Discord - AW_meister#4593!
+💬 Want to ask me a question? Contact me via Discord - aw_meister!
 <br/>
 <br/>
 <img src="https://lanyard-profile-readme.vercel.app/api/725333421236158485">
